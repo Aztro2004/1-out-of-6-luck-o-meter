@@ -7,4 +7,8 @@ A program that measures your luck of  with a chance of 1 out of 6. The program c
 4. 'EXIT': Ends the program.
 
 ## How is your luck calculated?
-With each right guess you get it will get taken into account with the number of tries up to that point. 
+With each right guess you get it will get taken into account with the number of tries up to that point. the general formula is:
+- num of right guesses / num of tries. 
+
+and the result of that is compred to the number of tries, to see the increase and decrease of your luck in the span of all your attempts.Here are some examples of the product the program will give.
+<img width="1252" alt="Screen Shot 2022-12-04 at 16 40 30" src="https://user-images.githubusercontent.com/111297109/205519862-e45a8776-cd3a-4afe-88bc-809d996d626c.png">
