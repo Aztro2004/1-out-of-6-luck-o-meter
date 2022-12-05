@@ -23,4 +23,4 @@ graph 2
 <img width="1237" alt="Screen Shot 2022-12-04 at 16 37 47" src="https://user-images.githubusercontent.com/111297109/205522272-05d00374-b7e5-418c-9365-102912ef924c.png">
 
 ## Dependencies
-- [MatPlotlib](https://matplotlib.org/)
+- [Matplotlib](https://matplotlib.org/)
