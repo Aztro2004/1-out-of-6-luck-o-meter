@@ -1,5 +1,5 @@
 # 1 out of 6 luck-o-meter
-
+This is the final proyect of Calculus and Analitic Geomtery at [UNAM ENES-MORELIA](https://www.enesmorelia.unam.mx/) at the career of TIC'S
 ## Author
 - Diego Maldonado Castro ([thebrogrrs@gmail.com](mailto:thebrogrrs@gmail.com))
 
@@ -29,5 +29,7 @@ graph 1
 graph 2
 <img width="1237" alt="Screen Shot 2022-12-04 at 16 37 47" src="https://user-images.githubusercontent.com/111297109/205522272-05d00374-b7e5-418c-9365-102912ef924c.png">
 
+## General observations
+The fluctuation of luck mostly comes in continous events and not in a constant pattern.
 ## Dependencies
 - [Matplotlib](https://matplotlib.org/)
