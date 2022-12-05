@@ -6,8 +6,9 @@ A program that measures your luck. The program creates a random number between 1
 3. 'RESTART': Resets the program and all your previous data.
 4. 'EXIT': Ends the program.
 
+(Note: While the graph window is open the program will stop. Close the graph window to continue)
 ## How your luck is calculated
-With each right guess you get it will get taken into account with the number of tries up to that point. the general formula is:
+With each right guess, it will get taken into account with the number of tries up to that point. the general formula is:
 - num of right guesses / num of tries. 
 
 ## How the graph is made
