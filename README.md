@@ -1,6 +1,6 @@
 # 1 out of 6 luck-o-meter
 
-A program that measures your luck. The program creates a random number between 1 and 6, and you have to guess it, if you guessed right, the program will save the chance of that guess happening according to the number of tries. The program has 4 main inputs or commands:
+An updatable graph that measures your luck. The program creates a random number between 1 and 6, and you have to guess it, if you guessed right, the program will save the chance of that guess happening according to the number of tries. The program has 4 main inputs or commands:
 1. Num. between 1 and 6: your guess of the number between 1 and 6 the computer generates.
 2. 'PRINT': Displays a graph of your luck with each try up to the point you type the command.
 3. 'RESTART': Resets the program and all your previous data.
