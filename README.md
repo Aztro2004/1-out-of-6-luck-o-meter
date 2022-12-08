@@ -1,5 +1,5 @@
 # 1 out of 6 luck-o-meter
-This is the final proyect of Calculus and Analitic Geomtery at [UNAM ENES-MORELIA](https://www.enesmorelia.unam.mx/) at the career of TIC'S
+This is the final proyect of Calculus and Analitic Geomtery at [UNAM ENES-MORELIA](https://www.enesmorelia.unam.mx/) at the career of TIC'S.
 ## Author
 - Diego Maldonado Castro ([thebrogrrs@gmail.com](mailto:thebrogrrs@gmail.com))
 
